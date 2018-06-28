@@ -1,4 +1,4 @@
-# DAtlasio
+# DAtlas
   Human civilization has so far experienced the steam engine revolution, the electric power revolution, and the Internet information revolution. It is about to usher in the fourth great civilization process that takes artificial intelligence as the core productive force + blockchain-based production relationship.  
 
   The DAtlas project was built by the world's top artificial intelligence scientists and blockchain experts such as Tsinghua University, University of London, and MIT. The Algorand consensus algorithm is used as the underlying architecture. The program-free visualization AI smart contract is a new generation of low-level protocol layers. chain. 
